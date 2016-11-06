@@ -1,0 +1,54 @@
+#app {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.product {
+  float:left;
+  width: 200px;
+  height: 200px;
+}
+
+a.navigation:link,
+a.navigation:visited,
+a.navigation:active {
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+}
+
+a.navigation:hover {
+  color:green;
+}
+.topbar {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: auto;
+  margin-bottom: 20px;
+}
+
+.productlist {
+  background-color:pink;
+  width:800px;
+}
+
+.ArticleContent {
+  float:left;
+  height: 1000px;
+  width:200px;
+  background-color:blue;
+}
+
+.sectionbest {
+  height: 200px;
+  background-color:pink;
+}
+
+.mainpage {
+  width: 1000px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
